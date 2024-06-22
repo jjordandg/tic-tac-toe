@@ -1,0 +1,14 @@
+.square {
+    width: 50px; 
+    height: 50px; 
+    background-color: #0f09d6;
+    color: #e342f5;
+    border: none;
+    border-radius: 5px; 
+    font-size: 35px; 
+    cursor: pointer;
+}
+
+.square-button:hover {
+    background-color: #040238;
+}
